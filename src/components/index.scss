@@ -1,0 +1,57 @@
+@import '../styles/GlobalStyles.scss';
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: var(--font-color-title);
+}
+
+h2{
+    color: var(--font-color-title);
+}
+
+p {
+    margin-top: 10px;
+}
+
+select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    background-color: #fff;
+}
+
+.details-container {
+    margin-top: 20px;
+
+}
+
+.valor {
+    font-size: 24px;
+    color: #008000 ;
+}
+
+.details-container h2 {
+    color: var(--font-color-title);
+    margin-bottom: 10px;
+}
+
+.no-info {
+    color: #cc0000;
+    font-weight: bold;
+}

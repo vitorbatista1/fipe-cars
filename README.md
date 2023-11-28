@@ -40,14 +40,14 @@ O design e a estrutura do projeto foram inspirados no [Modelo de Tabela FIPE](ht
    - Clone este repositório em sua máquina local utilizando a URL do GitHub fornecida.
 
    ```bash
-   git clone https://github.com/seu-nome/nome-do-repositorio.git
+   git clone git@github.com:vitorbatista1/fipe-cars.git
    ```
 
 2. **Instalar Dependências:**
    - Navegue até o diretório do projeto e instale as dependências necessárias.
 
    ```bash
-   cd nome-do-repositorio
+   cd fipe-cars.git
    npm install
    ```
 

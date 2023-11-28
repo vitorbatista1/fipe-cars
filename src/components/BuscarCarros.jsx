@@ -141,9 +141,6 @@ function BuscarModelosDeCarros() {
             <strong>Ano Modelo:</strong> {carroSelecionado.AnoModelo}
           </p>
           <p>
-            <strong>Tipo de Veículo:</strong> {carroSelecionado.TipoVeiculo}
-          </p>
-          <p>
             <strong>Preço do Veículo:</strong> <span className="valor">{carroSelecionado.Valor}</span>
           </p>
           {/* Adicione mais propriedades conforme necessário */}

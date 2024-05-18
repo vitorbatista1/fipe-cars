@@ -143,7 +143,6 @@ function BuscarModelosDeCarros() {
           <p>
             <strong>Preço do Veículo:</strong> <span className="valor">{carroSelecionado.Valor}</span>
           </p>
-          {/* Adicione mais propriedades conforme necessário */}
         </div>
       ) : (
         <p className="no-info">Nenhuma informação disponível para o carro selecionado.</p>
